@@ -1,11 +1,11 @@
 # Site settings
 author: Cillian Wing
-title: 
+title: Cillian's Coding Journey
 header-img: img/home-bg.png
 email: cwing@zagmail.gonzaga.edu
 copyright_name: Cillian Wing
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Semiconductor Engineer to Software Developer: Ready For a Bumpy Ride
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cillianwing
