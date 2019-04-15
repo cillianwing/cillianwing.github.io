@@ -35,7 +35,7 @@ Initial call method:
     # Allow user to select another hostel or quit program
     # Goodbye to user
   end
-	```
+```
 
 Final call method:
 
@@ -50,7 +50,7 @@ Final call method:
     restart?
     goodbye
   end
-	```
+```
 	
 While the initial call method had no other usable methods, it assisted me in two ways: 
 	
