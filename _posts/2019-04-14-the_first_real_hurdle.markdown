@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The First (Real) Hurdle"
-date:       2019-04-15 01:57:48 +0000
+date:       2019-04-14 21:57:49 -0400
 permalink:  the_first_real_hurdle
 ---
 
@@ -62,7 +62,7 @@ While containing no usable code, writing the sequence of events within my call m
 ## Harsh Reality of Scraping
 
 I was one of the fortunate few that had no issues scraping my webpage of choice for this project...initially. Once I had successfully implemented the original functionality that I desired from my program, I was feeling rather ambitious and wanted to add an additional feature. This additional feature would require scraping an individual hostel's webpage on HostelWorld.com and providing the user with available beds during the requested date range and the corresponding price. At this point, I was feeling like an expert with the CSS selector and expected no issues pulling this information.
-I confidentally entered the code below into a Repl.it session to confirm I gathered the correct data:
+I confidently entered the code below into a Repl.it session to confirm I gathered the correct data:
 
 ```
 webpage = Nokogiri::HTML(open(booking_page))
